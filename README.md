@@ -1,0 +1,2 @@
+# Javascript
+for learning purposes
